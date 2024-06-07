@@ -1,39 +1,42 @@
-# Hi there 👋, I'm Balachandar.S!
+# 👋 Hi, I'm Balachandar.S!
 
-## 🌐 Connect with me:
-- [LinkedIn](https://linkedin.com/in/balachandars2022/)
-- [Email](balachandar2014elu@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=zBalachandar&style=flat-square)
 
-## 🛠️ Technologies & Tools:
-- **Languages**: Python, SQL
-- **Cloud**: Microsoft Azure (Data Lake, Data Factory, Synapse Analytics, Azure SQL)
-- **Databases**: SQL Server, MySQL, Cosmos DB
-- **Data Engineering Tools**: Azure Data Factory, Databricks, Synapse Analytics
-- **Version Control**: Git
+## 🛠️ Technologies & Tools
 
-## 🌟 Projects:
-- [Azure Data Pipeline Project](https://github.com/zBalachandar/azure-data-pipeline)
-  - Built a scalable ETL pipeline using Azure Data Factory and Azure Synapse Analytics.
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FC4C02?style=for-the-badge&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- [Data Lakehouse](https://github.com/zBalachandar/data-lakehouse)
-  - Implemented a data lakehouse architecture using Databricks and Azure Data Lake Storage.
+## 💼 Current Projects
 
-- [Real-time Data Ingestion](https://github.com/yourusername/real-time-ingestion)
-  - Created a real-time data ingestion pipeline using Azure Event Hubs and Stream Analytics.
+- [Azure Data Lake Analytics](https://github.com/yourusername/azure-data-lake-analytics)
+- [Big Data Processing with Databricks](https://github.com/yourusername/big-data-databricks)
 
-## 📊 GitHub Stats:
+## 🌟 Featured Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=azure-data-lake-analytics)](https://github.com/yourusername/azure-data-lake-analytics)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=big-data-databricks)](https://github.com/yourusername/big-data-databricks)
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## ✨ Recent Activity
+
+<!--START_SECTION:activity-->
+1. 💻 Opened a new pull request in [yourusername/azure-data-lake-analytics](https://github.com/yourusername/azure-data-lake-analytics/pull/1)
+2. 🔧 Pushed to [big-data-databricks](https://github.com/yourusername/big-data-databricks)
+<!--END_SECTION:activity-->
+
+## 📫 Contact Me
+
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- Email: [yourname@example.com](mailto:yourname@example.com)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zBalachandar&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies:
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zBalachandar&theme=onedark)
-
-## 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zBalachandare&theme=radical)
-
-## 🧑‍💻 About Me:
-I am a passionate Azure Data Engineer with a focus on building robust data pipelines and solutions. I love working with data and cloud technologies to derive meaningful insights and build scalable data platforms.
-
-## 📫 How to reach me:
-- [Email](balachandar2014elu@gmail.com)
-- [LinkedIn](https://linkedin.com/in/balachandars2022/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=azure-data-lake-analytics)](https://github.com/yourusername/azure-data-lake-analytics)
 
