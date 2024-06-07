@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Balachandar.S!
+# 👋 Hi, I'm Balachandar S
 
-![Profile Views](https://komarev.com/ghpvc/?username=zBalachandar&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
 
 ## 🛠️ Technologies & Tools
 
@@ -14,29 +14,9 @@
 
 ## 💼 Current Projects
 
-- [Azure Data Lake Analytics](https://github.com/yourusername/azure-data-lake-analytics)
-- [Big Data Processing with Databricks](https://github.com/yourusername/big-data-databricks)
+- [Azure Data Lake Analytics](https://github.com/yourusername/azure-data-lake-analytics) - Analyzing large datasets using Azure Data Lake and PySpark.
+- [Big Data Processing with Databricks](https://github.com/yourusername/big-data-databricks) - Processing and analyzing big data with Apache Spark on Databricks.
 
 ## 🌟 Featured Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=azure-data-lake-analytics)](https://github.com/yourusername/azure-data-lake-analytics)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=big-data-databricks)](https://github.com/yourusername/big-data-databricks)
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## ✨ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 💻 Opened a new pull request in [yourusername/azure-data-lake-analytics](https://github.com/yourusername/azure-data-lake-analytics/pull/1)
-2. 🔧 Pushed to [big-data-databricks](https://github.com/yourusername/big-data-databricks)
-<!--END_SECTION:activity-->
-
-## 📫 Contact Me
-
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- Email: [yourname@example.com](mailto:yourname@example.com)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zBalachandar&show_icons=true&theme=radical)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=azure-data-lake-analytics)](https://github.com/yourusername/azure-data-lake-analytics)
-
+[![ReadMe Card](https://github
