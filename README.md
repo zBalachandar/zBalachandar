@@ -1,21 +1,39 @@
-# Hello, I'm Balachandar S 👋
+# Hi there 👋, I'm Balachandar.S!
 
-## 🌟 About Me
+## 🌐 Connect with me:
+- [LinkedIn](https://linkedin.com/in/balachandars2022/)
+- [Email](balachandar2014elu@gmail.com)
 
-- 🔭 I’m currently working on data engineering projects as an **Azure Data Engineer**.
-- 🌱 I’m learning more about **Azure Synapse Analytics** and **Databricks**.
-- 👯 I’m looking to collaborate on **data engineering projects**.
-- 💬 Ask me about **Azure Data Factory, Databricks, and Data Lake**.
-- 📫 How to reach me: balachandar2014elu@gmail.com
+## 🛠️ Technologies & Tools:
+- **Languages**: Python, SQL
+- **Cloud**: Microsoft Azure (Data Lake, Data Factory, Synapse Analytics, Azure SQL)
+- **Databases**: SQL Server, MySQL, Cosmos DB
+- **Data Engineering Tools**: Azure Data Factory, Databricks, Synapse Analytics
+- **Version Control**: Git
 
-## 🚀 Technologies & Tools
+## 🌟 Projects:
+- [Azure Data Pipeline Project](https://github.com/zBalachandar/azure-data-pipeline)
+  - Built a scalable ETL pipeline using Azure Data Factory and Azure Synapse Analytics.
 
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![Databricks](https://img.shields.io/badge/-Databricks-EA4C1D?logo=databricks&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black)
+- [Data Lakehouse](https://github.com/zBalachandar/data-lakehouse)
+  - Implemented a data lakehouse architecture using Databricks and Azure Data Lake Storage.
 
-## 📈 GitHub Stats
+- [Real-time Data Ingestion](https://github.com/yourusername/real-time-ingestion)
+  - Created a real-time data ingestion pipeline using Azure Event Hubs and Stream Analytics.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zBalachandar&show_icons=true&hide_title=true&count_private=true&theme=radical)
+## 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zBalachandar&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies:
+![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zBalachandar&theme=onedark)
+
+## 🔥 Streak Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zBalachandare&theme=radical)
+
+## 🧑‍💻 About Me:
+I am a passionate Azure Data Engineer with a focus on building robust data pipelines and solutions. I love working with data and cloud technologies to derive meaningful insights and build scalable data platforms.
+
+## 📫 How to reach me:
+- [Email](balachandar2014elu@gmail.com)
+- [LinkedIn](https://linkedin.com/in/balachandars2022/)
+
