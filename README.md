@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Balachandar S
+👋 Hello, World! I'm Balachandar.S
+🌐 Aspiring Azure Data Engineer
+📊 Data Enthusiast | Cloud Adventurer | Lifelong Learner
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
 
