@@ -73,4 +73,4 @@ I enjoy solving complex data puzzles and am always on the lookout for innovative
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zBalachandar&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zBalachandar&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=darshilparma&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=zBalachandar&style=flat-square)
