@@ -8,7 +8,7 @@
 
 ## 🌟 **About Me**
 
-Hello! I'm [Your Name], a fresher Azure Data Engineer with a passion for transforming data into actionable insights using cloud technologies. My journey in data engineering has just begun, but I'm enthusiastic about learning and growing in this dynamic field.
+Hello! I'm Balachandar S, a fresher Azure Data Engineer with a passion for transforming data into actionable insights using cloud technologies. My journey in data engineering has just begun, but I'm enthusiastic about learning and growing in this dynamic field.
 
 - 💻 **Currently Exploring**: Azure Data Factory, Azure Databricks, Azure Synapse Analytics
 - 📚 **Always Learning**: Advanced Data Engineering, Big Data, Machine Learning
@@ -70,7 +70,7 @@ I enjoy solving complex data puzzles and am always on the lookout for innovative
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zBalachandar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zBalachandar&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=[YourUsername]&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=zBalachandar&style=flat-square)
