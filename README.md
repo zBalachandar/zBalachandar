@@ -60,7 +60,7 @@ Developed interactive dashboards with Power BI to visualize key business metrics
 ## 📫 **Get in Touch**
 
 - **LinkedIn**: [https://www.linkedin.com/in/[YourLinkedInProfile]](https://www.linkedin.com/in/[YourLinkedInProfile])
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [your.email@example.com](mailto:balachandar2014elu@gmail.com)
 
 ---
 
