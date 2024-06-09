@@ -1,14 +1,14 @@
 # 👋 Hello, I'm Balachandar.S!
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/[YourLinkedInProfile])
-[![Email Badge](https://img.shields.io/badge/Email-Me-red)](mailto:[YourEmail])
-[![GitHub Badge](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/[YourUsername])
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/balachandars2022)
+[![Email Badge](https://img.shields.io/badge/Email-Me-red)](mailto:balachandar2014elu@gmail.com)
+[![GitHub Badge](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/zBalachandar)
 
 ---
 
 ## 🌟 **About Me**
 
-Hello! I'm Balachandar S, a fresher Azure Data Engineer with a passion for transforming data into actionable insights using cloud technologies. My journey in data engineering has just begun, but I'm enthusiastic about learning and growing in this dynamic field.
+Hello! I'm Balachandar S, as a fresher Azure Data Engineer with a passion for transforming data into actionable insights using cloud technologies. My journey in data engineering has just begun, but I'm enthusiastic about learning and growing in this dynamic field.
 
 - 💻 **Currently Exploring**: Azure Data Factory, Azure Databricks, Azure Synapse Analytics
 - 📚 **Always Learning**: Advanced Data Engineering, Big Data, Machine Learning
@@ -59,8 +59,8 @@ Developed interactive dashboards with Power BI to visualize key business metrics
 
 ## 📫 **Get in Touch**
 
-- **LinkedIn**: [https://www.linkedin.com/in/[YourLinkedInProfile]](https://www.linkedin.com/in/[YourLinkedInProfile])
-- **Email**: [your.email@example.com](mailto:balachandar2014elu@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/balachandars2022
+- **Email**: balachandar2014elu@gmail.com
 
 ---
 
@@ -73,4 +73,4 @@ I enjoy solving complex data puzzles and am always on the lookout for innovative
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zBalachandar&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zBalachandar&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=zBalachandar&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=darshilparma&style=flat-square)
