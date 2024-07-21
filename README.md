@@ -8,7 +8,7 @@
 
 ## 🌟 **About Me**
 
-Hello! I'm Balachandar S, as a fresher Azure Data Engineer with a passion for transforming data into actionable insights using cloud technologies. My journey in data engineering has just begun, but I'm enthusiastic about learning and growing in this dynamic field.
+Hello! I'm Balachandar S, a fresher Azure Data Engineer passionate about transforming data into actionable insights using cloud technologies. My journey in data engineering has just begun, but I'm enthusiastic about learning and growing in this dynamic field.
 
 - 💻 **Currently Exploring**: Azure Data Factory, Azure Databricks, Azure Synapse Analytics
 - 📚 **Always Learning**: Advanced Data Engineering, Big Data, Machine Learning
@@ -37,7 +37,7 @@ Designed and implemented an ETL pipeline using Azure Data Factory to automate da
 Built a data warehouse solution with Azure Synapse Analytics to centralize and analyze data, providing valuable business insights.
 
 ### 📊 [Interactive Dashboards](https://github.com/YourUsername/PowerBI-Dashboards)
-Developed interactive dashboards with Power BI to visualize key business metrics, aiding in data-driven decision making.
+Developed interactive dashboards with Power BI to visualize key business metrics, aiding in data-driven decision-making.
 
 ---
 
@@ -59,7 +59,7 @@ Developed interactive dashboards with Power BI to visualize key business metrics
 
 ## 📫 **Get in Touch**
 
-- **LinkedIn**: [https://www.linkedin.com/in/balachandars2022
+- **LinkedIn**: https://www.linkedin.com/in/balachandars2022
 - **Email**: balachandar2014elu@gmail.com
 
 ---
