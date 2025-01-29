@@ -8,10 +8,10 @@
 
 ## 🌟 **About Me**
 
-Hello! I'm Balachandar S, a fresher Azure Data Engineer passionate about transforming data into actionable insights using cloud technologies. My journey in data engineering has just begun, but I'm enthusiastic about learning and growing in this dynamic field.
+Hello! I'm Balachandar S, Having 3.5 years of Experience in AWS & Azure Data Engineering passionate about transforming data into actionable insights using cloud technologies. My journey in data engineering has just begun, but I'm enthusiastic about learning and growing in this dynamic field.
 
 - 💻 **Currently Exploring**: Azure Data Factory, Azure Databricks, Azure Synapse Analytics
-- 📚 **Always Learning**: Advanced Data Engineering, Big Data, Machine Learning
+- 📚 **Always Learning**: Advanced Data Engineering, Big Data, AWS, Snowflake
 - 🌱 **Looking to Collaborate on**: Open-source data projects and innovative cloud solutions
 
 ---
