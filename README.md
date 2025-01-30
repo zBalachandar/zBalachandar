@@ -20,7 +20,7 @@ Hello! I'm Balachandar S, Having 3.5 years of Experience in AWS & Azure Data Eng
 
 | Skill             | Description                             |
 | ----------------- | --------------------------------------- |
-| **Cloud Platforms**| Azure (Data Factory, Databricks, Synapse Analytics) |
+| **Cloud Platforms**| AWS,Azure (Data Factory, Databricks, Synapse Analytics),GCP|
 | **Data Tools**    | SQL, Python, Power BI                  |
 | **Programming**   | Python, SQL, PowerShell                |
 | **DevOps**        | Git, GitHub, CI/CD                     |
